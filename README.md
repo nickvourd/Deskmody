@@ -24,3 +24,6 @@ Some features:
 ‣ Edits some configuration settings in .tmux.conf.
 
 ‣ Installs all necessary packages in order to set up qemu/kvm hypervizors.
+
+
+Usage: ./diskmody.sh
