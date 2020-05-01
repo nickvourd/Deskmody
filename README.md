@@ -23,7 +23,7 @@ Some features:
 
 ‣ Edits some configuration settings in .tmux.conf.
 
-‣ Checks if your system supoort qemu/kvm.
+‣ Checks if your system supports qemu/kvm.
 
 ‣ Installs all necessary packages in order to set up qemu/kvm hypervizors.
 
