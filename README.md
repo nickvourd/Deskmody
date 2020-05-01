@@ -3,7 +3,7 @@ Deskmody is a bash script which modifies your personal Desktop (Ubuntu/Debian/Re
 
 Some features:
 
-‣ Recognize packet manager of system (supports only Ubuntu/Debian/RedHat systems)
+‣ Recognizes packet manager of system (supports only Ubuntu/Debian/RedHat systems)
 
 ‣ Checks Internet connectivity before the package installation.
 
