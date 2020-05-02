@@ -1,5 +1,10 @@
 #!/bin/bash
 
+#Author: @nickvourd
+#Website: nickvourd.eu
+#Team: Bit Warriors
+
+
 #Ascii art print
 cat << EOF
 
