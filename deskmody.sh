@@ -146,6 +146,7 @@ vim-gtk3
 tmux
 locate
 nmap
+dirb
 irpas
 tree
 
