@@ -149,6 +149,8 @@ nmap
 dirb
 irpas
 tree
+powerline
+gobuster
 
 EOF
 
@@ -216,7 +218,7 @@ EOF
 	#Configure .tmux.conf
 	echo -e "\e[1;34m[+] Configure .tmux.conf file!\e[0m\n"
 cat<<EOF>/root/.tmux.conf
-#source /usr/share/powerline/bindings/tmux/powerline.conf
+source /usr/share/powerline/bindings/tmux/powerline.conf
 
 set-window-option -g mode-keys vi
 bind-key -T copy-mode-vi 'v' send -X begin-selection
