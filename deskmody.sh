@@ -23,7 +23,7 @@ EOF
 #Function updater
 updater(){
 	echo -e "\e[1;34m[+] Your system database is updating!\e[0m\n"
-	updatedb 2>dev/null
+	updatedb 2>/dev/null
 	echo -e "\e[1;32m[!] Your system database has been updated!\e[0m\n"
 }
 
