@@ -151,6 +151,7 @@ irpas
 tree
 powerline
 gobuster
+bruteforce-salted-openssl
 
 EOF
 
