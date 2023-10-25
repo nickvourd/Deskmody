@@ -1,4 +1,4 @@
-# deskmody
+# Deskmody
 Deskmody is a bash script which modifies your personal Desktop (Ubuntu/Debian/RedHat) like mine. I created this script in order to automate all boring configuration procedure and settings of a new system installation or after a disk format. Be careful this script will change your default /bin/bash shell to /usr/bin/zsh. 
 
 Some features:
